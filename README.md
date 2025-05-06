@@ -72,5 +72,3 @@ Total Seek Time = 332
 2. Add improvements or new features (e.g., more algorithms).
 3. Submit a pull request with clear descriptions.
 
-## 📜 License
-Licensed under the [MIT License](LICENSE).
