@@ -1,6 +1,7 @@
-Disk Scheduling Simulator
-This is a C program that simulates disk scheduling algorithms, including FCFS (First-Come, First-Serve), SCAN, and C-SCAN. The program calculates the total seek time and displays the order of disk requests based on the selected algorithm.
-Features
+# Disk Scheduling Simulator
+- This is a C program that simulates disk scheduling algorithms, including FCFS (First-Come, First-Serve), SCAN, and C-SCAN. The program calculates the total seek time and displays the order of disk requests based on the selected algorithm.
+- ____________________________________
+## Features
 
 Supports three disk scheduling algorithms: FCFS, SCAN, and C-SCAN.
 Accepts user input for:
